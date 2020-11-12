@@ -36,3 +36,6 @@ Once you have either randomly generated or manually entered a starting state for
 choices 3-6 will perform a search to find the solution to the puzzle. If a solution can be found,
 the steps to solve the puzzle will be displayed. Then you will be given the option to return to 
 the main menu.
+
+* It is highly recommended you manually enter a state that has a confirmed solution. The included
+report has 10 different starting states that all have confirmed solution paths. 
