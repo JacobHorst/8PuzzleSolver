@@ -159,7 +159,7 @@ int userMenu()
 		<< "3: Perform breadth first search." << endl
 		<< "4: Perform depth first search." << endl
 		<< "5: Perform A* search using misplaced tiles." << endl
-		<< "6: Perform A* search ushing Manhattan distance." << endl
+		<< "6: Perform A* search using Manhattan distance." << endl
 		<< "7: Exit the program." << endl
 		<< "Current initial state: ";
 
